@@ -30,6 +30,7 @@ Puedes ver y ejecutar el notebook `set_venv_and_kernel.ipynb` para automatizar e
 | Archivo | Descripción |
 |--------|-------------|
 | `Analisis_riesgo_siniestralidad_TFM_MarcRoman.ipynb` | Notebook principal del TFM donde se realiza el análisis y predicción del riesgo de siniestralidad en seguros de automóviles. Contiene código, visualizaciones y explicaciones paso a paso. |
+| `[NON_executed_for_size_purposes] Analisis_riesgo_siniestralidad_TFM_MarcRoman.ipynb` | Ídem al anterior pero sin celdas ejecutadas para < 80 Mb. |
 | `Analisis_riesgo_siniestralidad_TFM_MarcRoman.html` | Versión exportada en HTML del notebook anterior, útil para visualizar el contenido sin necesidad de ejecutar código. |
 | `requirements_tfm.txt` | Lista de dependencias necesarias para ejecutar el notebook. Se instala automáticamente al configurar el entorno virtual. |
 | `set_venv_and_kernel.ipynb` | Notebook auxiliar que automatiza la creación del entorno virtual (`tfm_venv_001`), instalación de dependencias y registro del kernel en Jupyter. Ideal para que terceros puedan reproducir el entorno fácilmente. |
