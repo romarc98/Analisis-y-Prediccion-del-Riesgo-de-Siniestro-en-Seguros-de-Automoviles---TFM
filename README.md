@@ -10,7 +10,13 @@ The combination of advanced modeling, regulatory governance, and operational sca
 
 ---
 
-## Introducción
+# Dataset:
+
+Porto Seguro's: https://www.kaggle.com/competitions/porto-seguro-safe-driver-prediction/overview
+
+El dataset de entrenamiento es train.csv y el de test test.csv. Ambos se descargaron e introducieron en el directorio raíz (el mismo en el que se ejecuta el notebook .ipynb). 
+
+## Introducción/estructura del contenido:
 
 El notebook principal `Analisis_riesgo_siniestralidad_TFM_MarcRoman.ipynb` contiene el análisis detallado, visualizaciones y modelos utilizados para la predicción del riesgo de siniestralidad. Además, se proporciona un notebook auxiliar `set_venv_and_kernel.ipynb` para configurar el entorno virtual y el kernel de Jupyter, facilitando la reproducción del entorno por terceros.
 
